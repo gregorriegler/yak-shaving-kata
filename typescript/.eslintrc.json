@@ -2,7 +2,6 @@
   "parser": "@typescript-eslint/parser",
   "plugins": ["@typescript-eslint"],
   "rules": {
-    "no-warning-comments": "error",
-    "semi": ["error", "never"]
+    "no-warning-comments": "error"
   }
 }
